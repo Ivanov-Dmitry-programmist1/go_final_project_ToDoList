@@ -1,4 +1,4 @@
-module module github.com/LTVgreater5CPi/go_final_project
+module github.com/LTVgreater5CPi/go_final_project
 
 go 1.24.2
 
