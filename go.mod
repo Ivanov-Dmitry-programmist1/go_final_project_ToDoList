@@ -1,6 +1,6 @@
 module github.com/LTVgreater5CPi/go_final_project
 
-go 1.24.5
+go 1.24.2
 
 require (
 	github.com/golang-jwt/jwt/v5 v5.2.1
